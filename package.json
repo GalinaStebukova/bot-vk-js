@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "botact": "^2.4.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hot-formula-parser": "^3.0.2",
     "lib": "^4.1.4",
     "markup": "0.0.4",
